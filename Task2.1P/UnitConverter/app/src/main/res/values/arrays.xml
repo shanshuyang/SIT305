@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="basicUnit">
-        <item>Metre</item>
-        <item>Kilogram</item>
-        <item>Celsius</item>
-    </string-array>
-</resources>
