@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">RestaurantMapAPP</string>
-    <string name="Places_API">AIzaSyAWg0JV6r-CdCNtP4h7HwPEEOvE_2i8-j8</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_maps">Map</string>
-</resources>
